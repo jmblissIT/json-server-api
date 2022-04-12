@@ -1,0 +1,25 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "price": "30.44",
+        "size": "Small",
+        "color": "black",
+        "quantity": 2
+      },
+      {
+        "id": 2,
+        "price": "25.44",
+        "size": "Medium",
+        "color": "white",
+        "quantity": 3
+      },
+      {
+        "id": 3,
+        "price": "60.44",
+        "size": "XL",
+        "color": "navy",
+        "quantity": 1
+      }
+    ]
+  }
