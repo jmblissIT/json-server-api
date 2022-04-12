@@ -2,6 +2,13 @@
     "products": [
       {
         "id": 1,
+        "images" : [
+        "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtBlack.png?v=1647357457",
+        "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtWhite.png?v=1647357457",
+        "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtGray.png?v=1647357457",
+        "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtNavy.png?v=1647357457"
+        ],
+        "category": "men's t-shirt",
         "price": "30.44",
         "size": [ "small", "medium", "large", "XL", "2XL", "3XL", "4XL" ],
         "color": ["black", "white", "asphalt", "navy"],
@@ -9,6 +16,13 @@
       },
       {
         "id": 2,
+        "images" : [
+        "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtBlack.png?v=1647357457",
+        "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtWhite.png?v=1647357457",
+        "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtGray.png?v=1647357457",
+        "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtNavy.png?v=1647357457"
+        ],
+        "category": "men's t-shirt",
         "price": "25.44",
         "size": [ "small", "medium", "large", "XL", "2XL", "3XL", "4XL" ],
         "color": ["black", "white", "asphalt", "navy"],
@@ -16,6 +30,13 @@
       },
       {
         "id": 3,
+        "images" : [
+        "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtBlack.png?v=1647357457",
+        "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtWhite.png?v=1647357457",
+        "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtGray.png?v=1647357457",
+        "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtNavy.png?v=1647357457"
+        ],
+        "category": "men's t-shirt",
         "price": "60.44",
         "size": [ "small", "medium", "large", "XL", "2XL", "3XL", "4XL" ],
         "color": ["black", "white", "asphalt", "navy"],
