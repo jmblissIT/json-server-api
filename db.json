@@ -4,21 +4,21 @@
         "id": 1,
         "price": "30.44",
         "size": [ "small", "medium", "large", "XL", "2XL", "3XL", "4XL" ],
-        "color": "black",
+        "color": ["black", "white", "asphalt", "navy"],
         "quantity": 2
       },
       {
         "id": 2,
         "price": "25.44",
         "size": [ "small", "medium", "large", "XL", "2XL", "3XL", "4XL" ],
-        "color": "white",
+        "color": ["black", "white", "asphalt", "navy"],
         "quantity": 3
       },
       {
         "id": 3,
         "price": "60.44",
-        "size": "XL",
-        "color": [ "small", "medium", "large", "XL", "2XL", "3XL", "4XL" ],
+        "size": [ "small", "medium", "large", "XL", "2XL", "3XL", "4XL" ],
+        "color": ["black", "white", "asphalt", "navy"],
         "quantity": 1
       }
     ]
