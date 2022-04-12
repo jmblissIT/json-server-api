@@ -43,6 +43,19 @@
         "size": [ "small", "medium", "large", "XL", "2XL", "3XL", "4XL" ],
         "color": ["black", "white", "navy"],
         "quantity": 1
+      },
+        {
+        "id": 4,
+        "title": "11OZ COFFEE MUG",
+        "images" : [
+        "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/BlackMug.jpg?v=1647446411",
+        "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/Mug.jpg?v=1647446411"
+        ],
+        "category": "groceries",
+        "price": "24.99",
+        "size": [ "small", "medium", "large" ],
+        "color": ["black", "white"],
+        "quantity": 1
       }
     ]
   }
