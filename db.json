@@ -6,10 +6,10 @@
         "images" :
         "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtBlack.png?v=1647357457",
         "thumbnails" : [
-            {"id":1, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtBlack.png?v=1647357457"},
-            {"id":2, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtWhite.png?v=1647357457"},
-            {"id":3, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtGray.png?v=1647357457"},
-            {"id":4, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtNavy.png?v=1647357457"}],
+            {"id":1, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtBlack.png?v=1647357457", "color_name":"black"},
+            {"id":2, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtWhite.png?v=1647357457", "color_name":"white"},
+            {"id":3, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtGray.png?v=1647357457", "color_name":"asphalt"},
+            {"id":4, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtNavy.png?v=1647357457", "color_name":"navy"}],
         "category": "men's t-shirt",
         "price": "30.44",
         "size": [ 
@@ -34,10 +34,10 @@
         "images" :
         "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtBlack.png?v=1647357457",
         "thumbnails" : [
-            {"id":1, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtBlack.png?v=1647357457"},
-            {"id":2, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtWhite.png?v=1647357457"},
-            {"id":3, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtGray.png?v=1647357457"},
-            {"id":4, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtNavy.png?v=1647357457"}],
+            {"id":1, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtBlack.png?v=1647357457", "color_name":"black"},
+            {"id":2, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtWhite.png?v=1647357457", "color_name":"white"},
+            {"id":3, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtGray.png?v=1647357457", "color_name":"asphalt"},
+            {"id":4, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtNavy.png?v=1647357457", "color_name":"navy"}],
         "category": "men's t-shirt",
         "price": "25.44",
         "size": [ 
@@ -62,9 +62,9 @@
         "images" : 
         "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/HoodieBlack.png?v=1647261694",
         "thumbnails" : [
-            {"id":1, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/HoodieBlack.png?v=1647261694"},
-            {"id":2, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/HoodieGray.png?v=1647261694"},
-            {"id":3, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/HoodieNavy.png?v=1647261694"}],
+            {"id":1, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/HoodieBlack.png?v=1647261694", "color_name":"black"},
+            {"id":2, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/HoodieGray.png?v=1647261694", "color_name":"asphalt"},
+            {"id":3, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/HoodieNavy.png?v=1647261694", "color_name":"navy"}],
         "category": "clothes",
         "price": "34.99",
         "size": [ 
@@ -77,7 +77,7 @@
             {"id":7, "type":"4XL"}],
         "color": [
             {"id":1, "color_name":"black"},
-          {"id":2, "color_name":"white"},
+          {"id":2, "color_name":"asphalt"},
         {"id":3, "color_name":"navy"}
         ],
         "quantity": 1
@@ -88,8 +88,8 @@
         "images" :
         "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/BlackMug.jpg?v=1647446411",
        "thumbnails" : [
-           {"id":1, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/BlackMug.jpg?v=1647446411"},
-            {"id":2, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/Mug.jpg?v=1647446411"}],
+           {"id":1, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/BlackMug.jpg?v=1647446411", "color_name":"black"},
+            {"id":2, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/Mug.jpg?v=1647446411", "color_name":"white"}],
         "category": "groceries",
         "price": "24.99",
         "size": [ 
