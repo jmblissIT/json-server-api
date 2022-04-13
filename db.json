@@ -12,7 +12,14 @@
             {"id":4, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtNavy.png?v=1647357457"}],
         "category": "men's t-shirt",
         "price": "30.44",
-        "size": [ "small", "medium", "large", "XL", "2XL", "3XL", "4XL" ],
+        "size": [ 
+            {"id":1, "type":"small"},
+             {"id":2, "type":"medium"},
+            {"id":3, "type":"large"},
+             {"id":4, "type":"XL"},
+            {"id":5, "type":"2XL"},
+             {"id":6, "type":"3XL"},
+            {"id":7, "type":"4XL"}],
         "color": ["black", "white", "asphalt", "navy"],
         "quantity": 2
       },
@@ -28,7 +35,14 @@
             {"id":4, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtNavy.png?v=1647357457"}],
         "category": "men's t-shirt",
         "price": "25.44",
-        "size": [ "small", "medium", "large", "XL", "2XL", "3XL", "4XL" ],
+        "size": [ 
+            {"id":1, "type":"small"},
+             {"id":2, "type":"medium"},
+            {"id":3, "type":"large"},
+             {"id":4, "type":"XL"},
+            {"id":5, "type":"2XL"},
+             {"id":6, "type":"3XL"},
+            {"id":7, "type":"4XL"}],
         "color": ["black", "white", "asphalt", "navy"],
         "quantity": 3
       },
@@ -43,7 +57,14 @@
             {"id":3, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/HoodieNavy.png?v=1647261694"}],
         "category": "clothes",
         "price": "34.99",
-        "size": [ "small", "medium", "large", "XL", "2XL", "3XL", "4XL" ],
+        "size": [ 
+            {"id":1, "type":"small"},
+             {"id":2, "type":"medium"},
+            {"id":3, "type":"large"},
+             {"id":4, "type":"XL"},
+            {"id":5, "type":"2XL"},
+             {"id":6, "type":"3XL"},
+            {"id":7, "type":"4XL"}],
         "color": ["black", "white", "navy"],
         "quantity": 1
       },
@@ -57,7 +78,10 @@
             {"id":2, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/Mug.jpg?v=1647446411"}],
         "category": "groceries",
         "price": "24.99",
-        "size": [ "small", "medium", "large" ],
+        "size": [ 
+            {"id":1, "type":"small"},
+             {"id":2, "type":"medium"},
+            {"id":3, "type":"large"}],
         "color": ["black", "white"],
         "quantity": 1
       }
