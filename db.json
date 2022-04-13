@@ -9,6 +9,12 @@
         "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtGray.png?v=1647357457",
         "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtNavy.png?v=1647357457"
         ],
+        "thumbnails" : [
+        "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtBlack.png?v=1647357457",
+        "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtWhite.png?v=1647357457",
+        "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtGray.png?v=1647357457",
+        "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtNavy.png?v=1647357457"
+        ],
         "category": "men's t-shirt",
         "price": "30.44",
         "size": [ "small", "medium", "large", "XL", "2XL", "3XL", "4XL" ],
@@ -19,6 +25,12 @@
         "id": 2,
         "title": "ladies t-shirt",
         "images" : [
+        "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtBlack.png?v=1647357457",
+        "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtWhite.png?v=1647357457",
+        "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtGray.png?v=1647357457",
+        "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtNavy.png?v=1647357457"
+        ],
+        "thumbnails" : [
         "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtBlack.png?v=1647357457",
         "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtWhite.png?v=1647357457",
         "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtGray.png?v=1647357457",
@@ -38,6 +50,11 @@
         "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/HoodieGray.png?v=1647261694",
         "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/HoodieNavy.png?v=1647261694"
         ],
+        "thumbnails" : [
+        "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/HoodieBlack.png?v=1647261694",
+        "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/HoodieGray.png?v=1647261694",
+        "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/HoodieNavy.png?v=1647261694"
+        ],
         "category": "clothes",
         "price": "34.99",
         "size": [ "small", "medium", "large", "XL", "2XL", "3XL", "4XL" ],
@@ -48,6 +65,10 @@
         "id": 4,
         "title": "11OZ COFFEE MUG",
         "images" : [
+        "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/BlackMug.jpg?v=1647446411",
+        "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/Mug.jpg?v=1647446411"
+        ],
+       "thumbnails" : [
         "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/BlackMug.jpg?v=1647446411",
         "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/Mug.jpg?v=1647446411"
         ],
