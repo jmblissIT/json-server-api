@@ -20,7 +20,12 @@
             {"id":5, "type":"2XL"},
              {"id":6, "type":"3XL"},
             {"id":7, "type":"4XL"}],
-        "color": ["black", "white", "asphalt", "navy"],
+        "color": [ 
+          {"id":1, "color_name":"black"},
+          {"id":2, "color_name":"white"},
+        {"id":3, "color_name":"asphalt"},
+        {"id":4, "color_name":"navy"}
+        ],
         "quantity": 2
       },
       {
@@ -43,7 +48,12 @@
             {"id":5, "type":"2XL"},
              {"id":6, "type":"3XL"},
             {"id":7, "type":"4XL"}],
-        "color": ["black", "white", "asphalt", "navy"],
+        "color": [
+            {"id":1, "color_name":"black"},
+          {"id":2, "color_name":"white"},
+        {"id":3, "color_name":"asphalt"},
+        {"id":4, "color_name":"navy"}
+        ],
         "quantity": 3
       },
       {
@@ -65,7 +75,11 @@
             {"id":5, "type":"2XL"},
              {"id":6, "type":"3XL"},
             {"id":7, "type":"4XL"}],
-        "color": ["black", "white", "navy"],
+        "color": [
+            {"id":1, "color_name":"black"},
+          {"id":2, "color_name":"white"},
+        {"id":3, "color_name":"navy"}
+        ],
         "quantity": 1
       },
         {
@@ -82,7 +96,10 @@
             {"id":1, "type":"small"},
              {"id":2, "type":"medium"},
             {"id":3, "type":"large"}],
-        "color": ["black", "white"],
+        "color": [
+            {"id":1, "color_name":"black"},
+          {"id":2, "color_name":"white"}
+        ],
         "quantity": 1
       }
     ]
