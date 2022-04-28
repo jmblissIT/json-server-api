@@ -34,10 +34,9 @@
         "images" :
         "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/Shirt2Black.png?v=1647262519",
         "thumbnails" : [
-            {"id":1, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtBlack.png?v=1647357457", "color_name":"black"},
-            {"id":2, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtWhite.png?v=1647357457", "color_name":"white"},
-            {"id":3, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtGray.png?v=1647357457", "color_name":"asphalt"},
-            {"id":4, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtNavy.png?v=1647357457", "color_name":"navy"}],
+            {"id":1, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/Shirt2Black.png?v=1647262519", "color_name":"black"},
+            {"id":2, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/Shirt2Gray_compact.png?v=1647262519", "color_name":"gray"},
+            {"id":3, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/Shirt2Navy_compact.png?v=1647262519", "color_name":"navy"}],
         "category": "men's t-shirt",
         "price": "25.44",
         "size": [ 
