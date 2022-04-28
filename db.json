@@ -49,9 +49,8 @@
             {"id":7, "type":"4XL"}],
         "color": [
             {"id":1, "color_name":"black"},
-          {"id":2, "color_name":"white"},
-        {"id":3, "color_name":"asphalt"},
-        {"id":4, "color_name":"navy"}
+          {"id":2, "color_name":"gray"},
+        {"id":3, "color_name":"navy"}
         ],
         "quantity": 0
       },
