@@ -5,6 +5,8 @@
         "title": "men's t-shirt",
         "images" :
         "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtBlack.png?v=1647357457",
+        "hover_images" :
+        "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtWhite.png?v=1647357457",
         "thumbnails" : [
             {"id":1, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtBlack.png?v=1647357457", "color_name":"black"},
             {"id":2, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtWhite.png?v=1647357457", "color_name":"white"},
@@ -33,6 +35,8 @@
         "title": "ladies t-shirt",
         "images" :
         "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/Shirt2Black.png?v=1647262519",
+        "hover_images" :
+        "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/Shirt2Gray_compact.png?v=1647262519",
         "thumbnails" : [
             {"id":1, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/Shirt2Black.png?v=1647262519", "color_name":"black"},
             {"id":2, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/Shirt2Gray_compact.png?v=1647262519", "color_name":"gray"},
@@ -59,6 +63,8 @@
         "title": "hoodie",
         "images" : 
         "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/HoodieBlack.png?v=1647261694",
+        "hover_images" :
+        "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/HoodieGray.png?v=1647261694",
         "thumbnails" : [
             {"id":1, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/HoodieBlack.png?v=1647261694", "color_name":"black"},
             {"id":2, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/HoodieGray.png?v=1647261694", "color_name":"asphalt"},
@@ -85,6 +91,8 @@
         "title": "11OZ COFFEE MUG",
         "images" :
         "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/BlackMug.jpg?v=1647446411",
+        "hover_images" :
+        "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/Mug.jpg?v=1647446411",
        "thumbnails" : [
            {"id":1, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/BlackMug.jpg?v=1647446411", "color_name":"black"},
             {"id":2, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/Mug.jpg?v=1647446411", "color_name":"white"}],
