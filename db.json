@@ -98,10 +98,6 @@
             {"id":2, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/Mug.jpg?v=1647446411", "color_name":"white"}],
         "category": "groceries",
         "price": "24.99",
-        "size": [ 
-            {"id":1, "type":"small"},
-             {"id":2, "type":"medium"},
-            {"id":3, "type":"large"}],
         "color": [
             {"id":1, "color_name":"black"},
           {"id":2, "color_name":"white"}
