@@ -4,14 +4,14 @@
         "id": 1,
         "title": "men's t-shirt",
         "images" :
-        "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtBlack.png?v=1647357457",
+        "https://github.com/vikas-srivastav/json/blob/75735f1e2db448eb2ba076f8d4acb28ebaee961c/ShirtBlack.png",
         "hover_images" :
-        "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtWhite.png?v=1647357457",
+        "https://github.com/vikas-srivastav/json/blob/75735f1e2db448eb2ba076f8d4acb28ebaee961c/ShirtWhite.png",
         "thumbnails" : [
-            {"id":1, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtBlack.png?v=1647357457", "color_name":"black"},
-            {"id":2, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtWhite.png?v=1647357457", "color_name":"white"},
-            {"id":3, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtGray.png?v=1647357457", "color_name":"asphalt"},
-            {"id":4, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/ShirtNavy.png?v=1647357457", "color_name":"navy"}],
+            {"id":1, "url":"https://github.com/vikas-srivastav/json/blob/75735f1e2db448eb2ba076f8d4acb28ebaee961c/ShirtBlack.png", "color_name":"black"},
+            {"id":2, "url":"https://github.com/vikas-srivastav/json/blob/75735f1e2db448eb2ba076f8d4acb28ebaee961c/ShirtWhite.png", "color_name":"white"},
+            {"id":3, "url":"https://github.com/vikas-srivastav/json/blob/75735f1e2db448eb2ba076f8d4acb28ebaee961c/ShirtGray.png", "color_name":"asphalt"},
+            {"id":4, "url":"https://github.com/vikas-srivastav/json/blob/75735f1e2db448eb2ba076f8d4acb28ebaee961c/ShirtNavy.png", "color_name":"navy"}],
         "category": "men's t-shirt",
         "price": "30.44",
         "size": [ 
@@ -34,13 +34,13 @@
         "id": 2,
         "title": "ladies t-shirt",
         "images" :
-        "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/Shirt2Black.png?v=1647262519",
+        "https://github.com/vikas-srivastav/json/blob/5359c6cefb91ce5cba34514c35227e21c5d5fa3a/Shirt2Black.png",
         "hover_images" :
-        "https://cdn.shopify.com/s/files/1/0611/5989/9342/products/Shirt2Gray_compact.png?v=1647262519",
+        "https://github.com/vikas-srivastav/json/blob/5359c6cefb91ce5cba34514c35227e21c5d5fa3a/Shirt2Gray.png",
         "thumbnails" : [
-            {"id":1, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/Shirt2Black.png?v=1647262519", "color_name":"black"},
-            {"id":2, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/Shirt2Gray.png?v=1647262519", "color_name":"gray"},
-            {"id":3, "url":"https://cdn.shopify.com/s/files/1/0611/5989/9342/products/Shirt2Navy.png?v=1647262519", "color_name":"navy"}],
+            {"id":1, "url":"https://github.com/vikas-srivastav/json/blob/5359c6cefb91ce5cba34514c35227e21c5d5fa3a/Shirt2Black.png", "color_name":"black"},
+            {"id":2, "url":"https://github.com/vikas-srivastav/json/blob/5359c6cefb91ce5cba34514c35227e21c5d5fa3a/Shirt2Gray.png", "color_name":"gray"},
+            {"id":3, "url":"https://github.com/vikas-srivastav/json/blob/5359c6cefb91ce5cba34514c35227e21c5d5fa3a/Shirt2Navy.png", "color_name":"navy"}],
         "category": "men's t-shirt",
         "price": "25.44",
         "size": [ 
