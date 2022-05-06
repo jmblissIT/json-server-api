@@ -90,12 +90,12 @@
         "id": 4,
         "title": "11OZ COFFEE MUG",
         "images" :
-        "https://github.com/vikas-srivastav/json/blob/a9ac3f4ae81ea299d3345f724b8ef4788b26f71d/BlackMug.png",
+        "https://user-images.githubusercontent.com/91118327/167146103-fbcba470-ae9b-4477-8b83-c32435dc4fde.png",
         "hover_images" :
-        "https://github.com/vikas-srivastav/json/blob/a9ac3f4ae81ea299d3345f724b8ef4788b26f71d/WhiteMug.png",
+        "https://user-images.githubusercontent.com/91118327/167146094-ed3f1746-47d4-4794-b150-4d52bffe3244.png",
        "thumbnails" : [
-           {"id":1, "url":"https://github.com/vikas-srivastav/json/blob/a9ac3f4ae81ea299d3345f724b8ef4788b26f71d/BlackMug.png", "color_name":"black"},
-            {"id":2, "url":"https://github.com/vikas-srivastav/json/blob/a9ac3f4ae81ea299d3345f724b8ef4788b26f71d/WhiteMug.png", "color_name":"white"}],
+           {"id":1, "url":"https://user-images.githubusercontent.com/91118327/167146103-fbcba470-ae9b-4477-8b83-c32435dc4fde.png", "color_name":"black"},
+            {"id":2, "url":"https://user-images.githubusercontent.com/91118327/167146094-ed3f1746-47d4-4794-b150-4d52bffe3244.png", "color_name":"white"}],
         "category": "groceries",
         "price": "24.99",
         "color": [
