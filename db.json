@@ -34,13 +34,13 @@
         "id": 2,
         "title": "ladies t-shirt",
         "images" :
-        "https://github.com/vikas-srivastav/json/blob/5359c6cefb91ce5cba34514c35227e21c5d5fa3a/Shirt2Black.png",
+        "https://user-images.githubusercontent.com/91118327/167147072-002da832-cc17-4ecc-873c-3a21ec5a6296.png",
         "hover_images" :
-        "https://github.com/vikas-srivastav/json/blob/5359c6cefb91ce5cba34514c35227e21c5d5fa3a/Shirt2Gray.png",
+        "https://user-images.githubusercontent.com/91118327/167147086-92736353-7546-4f1f-aece-af0fd0138615.png",
         "thumbnails" : [
-            {"id":1, "url":"https://github.com/vikas-srivastav/json/blob/5359c6cefb91ce5cba34514c35227e21c5d5fa3a/Shirt2Black.png", "color_name":"black"},
-            {"id":2, "url":"https://github.com/vikas-srivastav/json/blob/5359c6cefb91ce5cba34514c35227e21c5d5fa3a/Shirt2Gray.png", "color_name":"gray"},
-            {"id":3, "url":"https://github.com/vikas-srivastav/json/blob/5359c6cefb91ce5cba34514c35227e21c5d5fa3a/Shirt2Navy.png", "color_name":"navy"}],
+            {"id":1, "url":"https://user-images.githubusercontent.com/91118327/167147072-002da832-cc17-4ecc-873c-3a21ec5a6296.png", "color_name":"black"},
+            {"id":2, "url":"https://user-images.githubusercontent.com/91118327/167147086-92736353-7546-4f1f-aece-af0fd0138615.png", "color_name":"gray"},
+            {"id":3, "url":"https://user-images.githubusercontent.com/91118327/167147091-b9c387ec-e3a6-4aaa-8b39-ed9b6a4165c1.png", "color_name":"navy"}],
         "category": "men's t-shirt",
         "price": "25.44",
         "size": [ 
