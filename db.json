@@ -62,13 +62,13 @@
         "id": 3,
         "title": "hoodie",
         "images" : 
-        "https://github.com/vikas-srivastav/json/blob/d253737dd164cd104c8d253eaf937aa04359c2c4/HoodieBlack.png",
+        "https://user-images.githubusercontent.com/91118327/167146140-cfbdeac6-1e42-4e35-8ef6-7f9b80dc9d27.png",
         "hover_images" :
-        "https://github.com/vikas-srivastav/json/blob/d253737dd164cd104c8d253eaf937aa04359c2c4/HoodieGray.png",
+        "https://user-images.githubusercontent.com/91118327/167146129-d19f3310-50f8-450e-9e2a-8a576be4b672.png",
         "thumbnails" : [
-            {"id":1, "url":"https://github.com/vikas-srivastav/json/blob/d253737dd164cd104c8d253eaf937aa04359c2c4/HoodieBlack.png", "color_name":"black"},
-            {"id":2, "url":"https://github.com/vikas-srivastav/json/blob/d253737dd164cd104c8d253eaf937aa04359c2c4/HoodieGray.png", "color_name":"asphalt"},
-            {"id":3, "url":"https://github.com/vikas-srivastav/json/blob/d253737dd164cd104c8d253eaf937aa04359c2c4/HoodieNavy.png", "color_name":"navy"}],
+            {"id":1, "url":"https://user-images.githubusercontent.com/91118327/167146140-cfbdeac6-1e42-4e35-8ef6-7f9b80dc9d27.png", "color_name":"black"},
+            {"id":2, "url":"https://user-images.githubusercontent.com/91118327/167146129-d19f3310-50f8-450e-9e2a-8a576be4b672.png", "color_name":"asphalt"},
+            {"id":3, "url":"https://user-images.githubusercontent.com/91118327/167146137-0672320e-5b93-4509-b6f8-dbb6cf34e18e.png", "color_name":"navy"}],
         "category": "clothes",
         "price": "34.99",
         "size": [ 
