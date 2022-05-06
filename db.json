@@ -4,14 +4,14 @@
         "id": 1,
         "title": "men's t-shirt",
         "images" :
-        "https://github.com/vikas-srivastav/json/blob/75735f1e2db448eb2ba076f8d4acb28ebaee961c/ShirtBlack.png",
+        "https://user-images.githubusercontent.com/91118327/167148761-d74a7d02-3afd-471d-ab4e-870ad0b374b9.png",
         "hover_images" :
-        "https://github.com/vikas-srivastav/json/blob/75735f1e2db448eb2ba076f8d4acb28ebaee961c/ShirtWhite.png",
+        "https://user-images.githubusercontent.com/91118327/167148780-0aedaccb-d34c-4588-b177-fe390a72006e.png",
         "thumbnails" : [
-            {"id":1, "url":"https://github.com/vikas-srivastav/json/blob/75735f1e2db448eb2ba076f8d4acb28ebaee961c/ShirtBlack.png", "color_name":"black"},
-            {"id":2, "url":"https://github.com/vikas-srivastav/json/blob/75735f1e2db448eb2ba076f8d4acb28ebaee961c/ShirtWhite.png", "color_name":"white"},
-            {"id":3, "url":"https://github.com/vikas-srivastav/json/blob/75735f1e2db448eb2ba076f8d4acb28ebaee961c/ShirtGray.png", "color_name":"asphalt"},
-            {"id":4, "url":"https://github.com/vikas-srivastav/json/blob/75735f1e2db448eb2ba076f8d4acb28ebaee961c/ShirtNavy.png", "color_name":"navy"}],
+            {"id":1, "url":"https://user-images.githubusercontent.com/91118327/167148761-d74a7d02-3afd-471d-ab4e-870ad0b374b9.png", "color_name":"black"},
+            {"id":2, "url":"https://user-images.githubusercontent.com/91118327/167148780-0aedaccb-d34c-4588-b177-fe390a72006e.png", "color_name":"white"},
+            {"id":3, "url":"https://user-images.githubusercontent.com/91118327/167148770-27547095-d72f-4c32-99f4-f327a81d5dcd.png", "color_name":"asphalt"},
+            {"id":4, "url":"https://user-images.githubusercontent.com/91118327/167148774-bbc190e5-c8f9-49cf-9885-f86f920b6b43.png", "color_name":"navy"}],
         "category": "men's t-shirt",
         "price": "30.44",
         "size": [ 
