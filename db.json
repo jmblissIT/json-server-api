@@ -29,7 +29,7 @@
         {"id":4, "color_name":"navy"}
         ],
         "quantity": 0,
-          "position": [
+        "position": [
               {
                   "id":1,
                   "top": "20%",
