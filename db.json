@@ -133,11 +133,11 @@
           {"id":2, "color_name":"white"}
         ],
         "quantity": 0,
-        "json_top": "25",
-         "json_left": "20",
-         "json_width": "48",
-         "json_height": "48",
-         "json_transformRotate": "0"
+        "json_top": 25,
+         "json_left": 20,
+         "json_width": 48,
+         "json_height": 48,
+         "json_transformRotate": 0
       }
     ]
   }
