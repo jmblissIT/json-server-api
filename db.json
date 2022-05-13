@@ -28,7 +28,17 @@
         {"id":3, "color_name":"asphalt"},
         {"id":4, "color_name":"navy"}
         ],
-        "quantity": 0
+        "quantity": 0,
+          "position": [
+              {
+                  "id":1,
+                  "top": "20%",
+                  "left": "39%",
+                  "width": "24%",
+                  "height": "24%",
+                  "transformRotate": "0"
+              }
+          ]
       },
       {
         "id": 2,
