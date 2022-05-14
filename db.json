@@ -29,16 +29,11 @@
         {"id":4, "color_name":"navy"}
         ],
         "quantity": 0,
-        "json_position": [
-              {
-                  "id":1,
-                  "top": "20%",
-                  "left": "39%",
-                  "width": "24%",
-                  "height": "24%",
-                  "transformRotate": "0"
-              }
-          ]
+        "json_top": 20,
+        "json_left": 39,
+        "json_width": 24,
+        "json_height": 24,
+        "json_transformRotate": 0
       },
       {
         "id": 2,
@@ -67,16 +62,11 @@
         {"id":3, "color_name":"navy"}
         ],
         "quantity": 0,
-         "json_position": [
-              {
-                  "id":1,
-                  "top": "20%",
-                  "left": "35%",
-                  "width": "24%",
-                  "height": "24%",
-                  "transformRotate": "0"
-              }
-          ]
+        "json_top": 20,
+        "json_left": 35,
+        "json_width": 24,
+        "json_height": 24,
+        "json_transformRotate": 0
       },
       {
         "id": 3,
@@ -104,17 +94,12 @@
           {"id":2, "color_name":"asphalt"},
         {"id":3, "color_name":"navy"}
         ],
-        "quantity": 0,
-          "json_position": [
-              {
-                  "id":1,
-                  "top": "35%",
-                  "left": "39%",
-                  "width": "24%",
-                  "height": "24%",
-                  "transformRotate": "-17"
-              }
-          ]
+        "quantity": 0,             
+        "json_top": 35,
+        "json_left": 39,
+        "json_width": 24,
+        "json_height": 24,
+        "json_transformRotate": -17    
       },
         {
         "id": 4,
