@@ -142,7 +142,7 @@
             {"id":1, "type":"small"},
              {"id":2, "type":"medium"},
             {"id":3, "type":"large"},
-             {"id":4, "type":"XL"},
+             {"id":4, "type":"XL"}
             ],
         "quantity": 0,
         "json_top": 25,
