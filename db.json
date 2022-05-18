@@ -123,6 +123,33 @@
          "json_width": 48,
          "json_height": 48,
          "json_transformRotate": 0
+      },
+        {
+        "id": 5,
+        "title": "METAL SIGN",
+        "images" :
+        "https://i.imgur.com/Hmjk2bo.png",
+        "hover_images" :
+        "https://i.imgur.com/Gx998As.png",
+       "thumbnails" : [
+           {"id":1, "url":"https://i.imgur.com/Hmjk2bo.png", "color_name":"blue"},
+            {"id":2, "url":"https://i.imgur.com/Gx998As.png", "color_name":"blue"},
+            {"id":3, "url":"https://i.imgur.com/dwj4X7e.png", "color_name":"blue"},
+            {"id":4, "url":"https://i.imgur.com/I8Nvx9Z.png", "color_name":"blue"}],
+        "category": "METAL SIGN",
+        "price": "199.99",
+         "size": [ 
+            {"id":1, "type":"small"},
+             {"id":2, "type":"medium"},
+            {"id":3, "type":"large"},
+             {"id":4, "type":"XL"},
+            ],
+        "quantity": 0,
+        "json_top": 25,
+         "json_left": 20,
+         "json_width": 48,
+         "json_height": 48,
+         "json_transformRotate": 0
       }
     ]
   }
