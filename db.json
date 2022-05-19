@@ -128,21 +128,21 @@
         "id": 5,
         "title": "METAL SIGN",
         "images" :
-        "https://i.imgur.com/Hmjk2bo.png",
+        "https://user-images.githubusercontent.com/91118327/169310379-0a99500d-dbbd-4bbd-ba4c-48725df542e2.png",
         "hover_images" :
-        "https://i.imgur.com/Gx998As.png",
+        "https://user-images.githubusercontent.com/91118327/169310357-beac4afa-9a18-4ff6-be73-157e679c763f.png",
        "thumbnails" : [
-           {"id":1, "url":"https://i.imgur.com/Hmjk2bo.png", "color_name":"blue"},
-            {"id":2, "url":"https://i.imgur.com/Gx998As.png", "color_name":"blue"},
-            {"id":3, "url":"https://i.imgur.com/dwj4X7e.png", "color_name":"blue"},
-            {"id":4, "url":"https://i.imgur.com/I8Nvx9Z.png", "color_name":"blue"}],
+           {"id":1, "url":"https://user-images.githubusercontent.com/91118327/169310379-0a99500d-dbbd-4bbd-ba4c-48725df542e2.png", "color_name":"blue"},
+            {"id":2, "url":"https://user-images.githubusercontent.com/91118327/169310357-beac4afa-9a18-4ff6-be73-157e679c763f.png", "color_name":"blue"},
+            {"id":3, "url":"https://user-images.githubusercontent.com/91118327/169310371-51f62c85-5aad-41c2-8f4e-9b3d43e13d46.png", "color_name":"blue"},
+            {"id":4, "url":"https://user-images.githubusercontent.com/91118327/169310375-c09e9784-0455-449e-9b42-a4b528580252.png", "color_name":"blue"}],
         "category": "METAL SIGN",
         "price": "199.99",
          "size": [ 
-            {"id":1, "type":"small"},
-             {"id":2, "type":"medium"},
-            {"id":3, "type":"large"},
-             {"id":4, "type":"XL"}
+            {"id":1, "type":"12x12"},
+             {"id":2, "type":"18x18"},
+            {"id":3, "type":"18x24"},
+             {"id":4, "type":"24x24"}
             ],
         "quantity": 0,
         "json_top": 25,
