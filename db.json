@@ -79,14 +79,13 @@
             {"id":2, "url":"https://user-images.githubusercontent.com/91118327/167146129-d19f3310-50f8-450e-9e2a-8a576be4b672.png", "color_name":"asphalt"},
             {"id":3, "url":"https://user-images.githubusercontent.com/91118327/167146137-0672320e-5b93-4509-b6f8-dbb6cf34e18e.png", "color_name":"navy"}],
         "category": "apparel",
-        "price": "59.99",
-        "size": [ 
-            {"id":1, "type":"small"},
-             {"id":2, "type":"medium"},
-            {"id":3, "type":"large"},
-             {"id":4, "type":"XL"},
-            {"id":5, "type":"2XL"},
-             {"id":6, "type":"3XL"}],
+        "details": [ 
+            {"id":1, "size":"small", "price": 59.99},
+             {"id":2, "size":"medium", "price": 59.99},
+            {"id":3, "size":"large", "price": 59.99},
+             {"id":4, "size":"XL", "price": 59.99},
+            {"id":5, "size":"2XL", "price": 60.99},
+             {"id":6, "size":"3XL", "price": 61.99}],
         "color": [
             {"id":1, "color_name":"black"},
           {"id":2, "color_name":"asphalt"},
@@ -135,17 +134,11 @@
             {"id":3, "url":"https://user-images.githubusercontent.com/91118327/169310371-51f62c85-5aad-41c2-8f4e-9b3d43e13d46.png", "color_name":"blue"},
             {"id":4, "url":"https://user-images.githubusercontent.com/91118327/169310375-c09e9784-0455-449e-9b42-a4b528580252.png", "color_name":"blue"}],
         "category": "METAL SIGN",
-        "price": [
-            {"id":1, "value":99.99},
-            {"id":2, "value":149.99},
-            {"id":3, "value":179.99},
-            {"id":4, "value":199.99}
-        ],
-         "size": [ 
-            {"id":1, "type":"12x12"},
-             {"id":2, "type":"18x18"},
-            {"id":3, "type":"18x24"},
-             {"id":4, "type":"24x24"}
+         "details": [ 
+            {"id":1, "size":"12x12", "price":99.99},
+             {"id":2, "size":"18x18", "price":149.99},
+            {"id":3, "size":"18x24", "price":179.99},
+             {"id":4, "size":"24x24", "price":199.99}
             ],
         "quantity": 0,
         "json_top": 25,
