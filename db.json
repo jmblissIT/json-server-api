@@ -111,6 +111,7 @@
             {"id":2, "url":"https://user-images.githubusercontent.com/91118327/167146094-ed3f1746-47d4-4794-b150-4d52bffe3244.png", "color_name":"white"}],
         "category": "groceries",
         "price": "24.99",
+        "size": [],
         "color": [
             {"id":1, "color_name":"black"},
           {"id":2, "color_name":"white"}
@@ -142,6 +143,7 @@
             {"id":3, "type":"18x24", "price":179.99},
              {"id":4, "type":"24x24", "price":199.99}
             ],
+        "color": [],
         "quantity": 0,
         "json_top": 25,
          "json_left": 20,
